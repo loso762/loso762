@@ -7,7 +7,7 @@
 </a> <img src="https://img.shields.io/badge/loso762@naver.com-F06B66?style=flat&logo=gmail&logoColor=white"/>
 <br>
 
-### Skills<br>
+### 💪 Skills<br>
 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=Jquery&logoColor=white"/> <img src="https://img.shields.io/badge/nextJS-000000?style=flat&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
 <br><br>
