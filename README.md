@@ -15,7 +15,9 @@
 ### 📌 LINK
 [이력서](https://www.canva.com/design/DAFgtwZuVMQ/IQuftbWTOQPumf0Dc0DdpA/view?utm_content=DAFgtwZuVMQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loso762&show_icons=true&theme=radical)
+
+[포트폴리오](https://loso762.github.io/Portfolio/)
+
 
 
 
