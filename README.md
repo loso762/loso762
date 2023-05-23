@@ -16,7 +16,7 @@
 [1. 이력서](https://www.canva.com/design/DAFgtwZuVMQ/IQuftbWTOQPumf0Dc0DdpA/view?utm_content=DAFgtwZuVMQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 
-[2. 포트폴리오](https://loso762.github.io/Portfolio/)
+[2. 포트폴리오](https://www.notion.so/e5f785537cf0418eb02e040efce98807)
 
 
 
