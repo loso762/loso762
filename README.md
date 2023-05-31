@@ -13,10 +13,8 @@
 <br><br>
 
 ### 📌 LINK
-[1. 이력서](https://www.canva.com/design/DAFgtwZuVMQ/IQuftbWTOQPumf0Dc0DdpA/view?utm_content=DAFgtwZuVMQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-
-[2. 포트폴리오](https://splashy-bream-85d.notion.site/e5f785537cf0418eb02e040efce98807#74eb6671aa6f4d229f36ee95ec136fba)
+[포트폴리오](https://splashy-bream-85d.notion.site/e5f785537cf0418eb02e040efce98807#74eb6671aa6f4d229f36ee95ec136fba)
 
 
 
